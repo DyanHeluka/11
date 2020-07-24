@@ -206,4 +206,4 @@ void ukuran(int lebar, int tinggi) //ukuran (awal)
     glutMotionFunc(mouseMotion);
     glMatrixMode(GL_MODELVIEW);
 }
-
+//dd
