@@ -1,5 +1,6 @@
 #include <windows.h>
 #include <gl/glut.h>
+//y
 
 void mouse(int button, int state, int x, int y);
 void mouseMotion(int x, int y);
